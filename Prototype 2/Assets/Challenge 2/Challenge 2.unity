@@ -501,7 +501,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d96ad106bd784549a370bbfd1f8b697, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  dogPrefab: {fileID: 800941954}
+  dogPrefab: {fileID: 8241448880393145375, guid: 3e5fe95e580114a5f8f8348678e77463,
+    type: 3}
 --- !u!4 &355618745
 Transform:
   m_ObjectHideFlags: 0
@@ -954,12 +955,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 768187719}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
---- !u!1 &800941954 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 8241448880393145375, guid: 3e5fe95e580114a5f8f8348678e77463,
-    type: 3}
-  m_PrefabInstance: {fileID: 1194652525}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &849260513
 GameObject:
   m_ObjectHideFlags: 0
